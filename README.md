@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="   https://cdn-icons-png.flaticon.com/512/10692/10692946.png " width="100" height="100" alt="" title="" class="img-small">
+  <img src="https://cdn-icons-png.flaticon.com/512/10692/10692946.png " width="100" height="100" alt="" title="" class="img-small">
   <h3 align="center">COIN GRABBER</h3>
 
 </div>
